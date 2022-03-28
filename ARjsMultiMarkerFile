@@ -8,7 +8,7 @@
 		{
 			"parameters": {
 				"type": "pattern",
-				"patternUrl": "pattern-marker3.patt"
+				"patternUrl": "pattern-marker.patt"
 			},
 			"poseMatrix": [
 				1,
@@ -32,7 +32,7 @@
 		{
 			"parameters": {
 				"type": "pattern",
-				"patternUrl": "pattern-marker13.patt"
+				"patternUrl": "pattern-marker1.patt"
 			},
 			"poseMatrix": [
 				0.9773995655285838,
@@ -55,7 +55,7 @@
 		{
 			"parameters": {
 				"type": "pattern",
-				"patternUrl": "pattern-marker23.patt"
+				"patternUrl": "pattern-marker2.patt"
 			},
 			"poseMatrix": [
 				0.9773995655285838,
